@@ -1,3 +1,4 @@
 # ENGG1340 Project: Staff Management System
-## **Project Statement**
+## **Problem Statement**
+As a staff management system, 
  
