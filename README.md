@@ -1,9 +1,2 @@
-# Staff-Management-System
-Problem Statement:
-
-
-
-
-
-
-Problem Setting:
+# ENGG1340 Project: Staff Management System
+ 
