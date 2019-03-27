@@ -7,7 +7,7 @@ Since we are a small business with only a few employees, our company does not ha
 ## Problem Setting
 Assuming that our business starts to grow, our HR department would have to implement a strict policy on application of casual leave for the following reasons:
 1. Ensure not more than 5 employees per department take a casual leave on the same day
-   - The request for casual leaves is granted by first-come-first-serve basis. If a staff member requests for a casual leave but 10 employees have already requested the leave beforehand, that staff member's request will be denied.
+   - The request for casual leaves is granted by first-come-first-serve basis. If a staff member requests for a casual leave but 5 employees have already requested the leave beforehand, that staff member's request will be denied.
 2. Ensure each employee is granted maximum 12 days of casual leave
    - Each employee will have a casual leave counter that starts at 12 days at the beginning of each year. As the employee asks for a casual leave, the 12 days will be deducted according to how many days the employee asks for casual leave. If the casual leave counter of that employee reaches 0 days before the end of the year, any casual leave request onwards will be rejected.
 
