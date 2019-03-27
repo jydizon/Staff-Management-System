@@ -13,13 +13,13 @@ Since we are a small business with only a few employees, our company does not ha
 
 ## **Program Features:**
 
-1. **Create New Employee Record:** Creates a new employee with attributes including employee ID, name, birthday, role, and salary
+1. **Create New Employee Record:** Creates a new employee record with attributes including employee ID, name, birthday, role, and salary.
 
 2. **Search and Delete Employee Records:** Search for and delete an employee via their ID, name, birthday or role
 
 3. **Employee Termination:** Enables the user to select employee’s record for termination and deletes it from the employee records. This record will then be moved into another record of employees who have been terminated/left the company.
 
-4. **Edit Record Details:** Edit the details of an existing employee;
+4. **Edit Record Details:** Edit the details of an existing employee.
 
 5. **Finding Employees with Certain Amount of Salary:** Users can input a certain amount and search for all employees with a salary higher than or lower than the input
 
